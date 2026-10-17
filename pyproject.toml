@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mailcheckr"
+version = "0.1.0"
+description = "Server-side Python client for the MailCheckr email verification API"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Ridwan Kasim"}]
+keywords = ["mailcheckr", "email", "verification"]
+classifiers = ["Programming Language :: Python :: 3", "Programming Language :: Python :: 3 :: Only", "License :: OSI Approved :: MIT License", "Topic :: Communications :: Email"]
+
+[project.urls]
+Documentation = "https://mailcheckr.app/docs"
+Source = "https://github.com/dotmarn/mailcheckr-python"
+
+[tool.setuptools.packages.find]
+where = ["src"]
