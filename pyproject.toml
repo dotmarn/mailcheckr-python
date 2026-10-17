@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
 authors = [{name = "Ridwan Kasim"}]
-keywords = ["mailcheckr", "email", "verification"]
+keywords = ["mailcheckr", "email verification", "email deliverability", "api client", "python sdk", "webhook verification", "hmac"]
 classifiers = ["Programming Language :: Python :: 3", "Programming Language :: Python :: 3 :: Only", "License :: OSI Approved :: MIT License", "Topic :: Communications :: Email"]
 
 [project.urls]
