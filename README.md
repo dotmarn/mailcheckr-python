@@ -67,3 +67,5 @@ MIT. See [LICENSE](LICENSE).
 ## Contributing
 
 Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for setup and pull request guidance.
+
+Report security issues privately as described in [SECURITY.md](SECURITY.md).

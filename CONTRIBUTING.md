@@ -23,6 +23,6 @@ On Windows, activate the environment with `.venv\Scripts\activate` instead. The 
 - Verify webhook signatures against the exact raw request body. Do not parse and reserialize it before verification.
 - Keep support for every Python version in the CI matrix, and update the README when public behavior changes.
 
-Never commit API keys, webhook secrets, or customer email addresses. Do not put a suspected security vulnerability in a public issue; contact the maintainers privately through the repository's available security reporting channel.
+Never commit API keys, webhook secrets, or customer email addresses. Report suspected vulnerabilities using [SECURITY.md](SECURITY.md), not a public issue.
 
 Contributions are made under this repository's [MIT License](LICENSE).
