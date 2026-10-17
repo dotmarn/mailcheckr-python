@@ -63,3 +63,7 @@ python -m pip wheel . --no-deps -w dist
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Contributing
+
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for setup and pull request guidance.
